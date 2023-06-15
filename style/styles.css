@@ -1,4 +1,12 @@
-body {background-color: rgb(12, 12, 12);}
-h1   {color: rgba(224, 223, 223, 0.863);}
-h2   {color: rgba(224, 223, 223, 0.863);}
+body {background-color:black}
+h1   {color: lightcyan}
+h2   {color: lightcyan}
 p    {color: white;}
+
+header {
+    background-color: Black;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
