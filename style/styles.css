@@ -10,3 +10,11 @@ header {
     font-size: 35px;
     color: white;
   }
+
+  article {
+    float: left;
+    padding: 20px;
+    width: 70%;
+    background-color:Black;
+    height: 300px; 
+  }
